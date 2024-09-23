@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.h1{
+    text-align: "center";
+   font-size:xx-large;
+   font-family: bold;
+   text-decoration: underline;
+   color: blue;
+   
+}
+.ele1{
+    background-color: blue;
+    height: 100vh;
+    background-image:  url("cover-img.jpg");
+   
+ height: 100vh;
+ width: 100vw;
+background-position: top;
+background-repeat: no-repeat;
+background-attachment:fixed;
+}
+.ele2{
+    background-image: url("sta-je-css.png");
+    height: 200vh;
+    width:100vw;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ele3{
+    background-image: url("javascript-series.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.h1:hover{
+    background-color:black;
+}
+.ele4{
+    background-image: url("1_x0d41ns8PTQZz4a3VbMrBg.webp");
+    height: 100vh;
+    width:100vw;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ele5{
+    background-image:url("bootstrap.jpg");
+    height: 100vh;
+    width:100vw;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ele6{
+    background-image:url("1-768x459-1.png");
+    height: 100vh;
+    width:100vw;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ele7{
+    background-image:url("1_VTW6T-7KkQHPjf4mtfQ0Zg typee.webp");
+    height: 100vh;
+    width:100vw;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
